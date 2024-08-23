@@ -1,5 +1,1 @@
-class name {
-    constructor(parameters) {
-        
-    }
-}
+console.log("test snippets")
